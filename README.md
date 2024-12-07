@@ -10,11 +10,10 @@
         <br><br>
 
 <div align="center" style="desplay: inline_block">
-        <p><strong>Tecnologias usadas no projeto</strong></p>
-
+<p align="center"><strong>Tecnologias usadas no projeto</strong></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="lin-html" height="30" width="40"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="lin-css" height="30" width="40"/>
-    </div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="lin-js" height="30" width="40"/>
+</div>
 </body>
 </html>
